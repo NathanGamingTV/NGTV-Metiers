@@ -37,7 +37,7 @@ public class DbAndFunctions {
 		
 		try {
 			
-			cnt = DriverManager.getConnection("jdbc:mysql://localhost/serveurngtv", "root", "LUMANA045");
+			cnt = DriverManager.getConnection("jdbc:mysql://localhost/serveurngtv", "root", "password");
 			
 		} 
 		
